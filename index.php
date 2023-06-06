@@ -109,7 +109,7 @@
                                     <div class="info-text">
                                        
                                         <button class="button-top" data-toggle="modal" data-target="#form">Admission Enquiry</button>
-                                        <p class="u-code">University code 851</p>
+                                        <p class="u-code">Counsiling Code 2767</p>
                                     </div>
                                 </div>
                             </div>
@@ -159,7 +159,8 @@
                                             <li><a href="BTech_Artificial.php" title="Civil Engineering"><span>B.Tech - Artificial Intelligence and Data Science</span></a></li>
                                             <li><a href="BTech_Information.php" title="Civil Engineering"><span>B.Tech - Information Technology</span></a></li>
                                             <li> <a href="Medical%20Laboratory%20Technology.php" title="Biomedical Engineering"><span>B.E - Biomedical Engineering</span></a></li>
-                                            <li><a href="Cse Be-Me.php" title="Computer Science and Engineering"><span>B.E  - Computer Science and Engineering and Cyber Security</span></a></li>
+                                            <li><a href="Cse Be-Me.php" title="Computer Science and Engineering"><span>B.E  - Computer Science and Engineering </span></a></li>
+                                            <li><a href="Cse Be-Me.php" title="Computer Science and Engineering"><span>B.E  - Computer Science and Engineering and (Cyber Security)</span></a></li>
                                             <li> <a href="Eee.php" title="Electrical and Electronics Engineering"><span>B.E - Electrical and Electronics Engineering</span></a></li>
                                             <li> <a href="Mechanical.php" title="Mechanical Engineering"><span>B.E - Mechanical Engineering</span></a></li>
                                             <li><a href="CivilEngineering.php" title="Civil Engineering"><span>B.E - Civil Engineering</span></a></li>
@@ -168,7 +169,7 @@
                                         <li class="menu-item-has-children"> <a href="#">PG - Courses</a>
                                             <ul class="sub-menu">
                                             <li><a href="Me-CEM.php" title=">M.E - Construction Engineering and Management"><span>M.E - Construction Engineering and Management</span></a></li> 
-                                            <li><a href="Cse Be-Me.php" title="Computer Science and Engineering"><span>M.E  - Computer Science and Engineering and Cyber Security</span></a></li>
+                                            <li><a href="Cse Be-Me.php" title="Computer Science and Engineering"><span>M.E  - Computer Science and Engineering </span></a></li>
                                             <li><a href="Me-ME.php" title="M.E - Manufacturing Engineering"><span>M.E - Manufacturing Engineering</span></a></li>
                                             <li ><a href="Me-power.php" title="Me-power"><span>M.E - Power Electronics And Drives</span></a></li>
                                             <li><a href="Me-SE.php" title="M.E - Structural Engineering"><span>M.E - Structural Engineering</span></a></li>
@@ -361,7 +362,7 @@
                 <div class="col-lg-6 col-md-12">
                     <div class="about-img rs-animation-hover">
                         <img src="images/about/about.jpg" alt="img02" />
-                        <a class="popup-youtube rs-animation-fade" href="https://www.youtube.com/watch?v=tzMpWiGL8D8" title="Video Icon">
+                        <a class="popup-youtube rs-animation-fade" href="https://www.youtube.com/watch?v=O-GyU_8Dol0" title="Video Icon">
                         </a>
                         <div class="overly-border"></div>
                     </div>

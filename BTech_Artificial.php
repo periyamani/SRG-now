@@ -114,7 +114,7 @@
                                     <div class="info-text">
                                        
                                         <button class="button-top" data-toggle="modal" data-target="#form">Admission Enquiry</button>
-                                        <p class="u-code">University code 851</p>
+                                        <p class="u-code">Counsiling Code 2767</p>
                                     </div>
                                 </div>
                             </div>
@@ -164,7 +164,8 @@
                                             <li class="active"><a href="BTech_Artificial.php" title="Civil Engineering"><span>B.Tech - Artificial Intelligence and Data Science</span></a></li>
                                             <li><a href="BTech_Information.php" title="Civil Engineering"><span>B.Tech - Information Technology</span></a></li>
                                             <li> <a href="Medical%20Laboratory%20Technology.php" title="Biomedical Engineering"><span>B.E - Biomedical Engineering</span></a></li>
-                                            <li><a href="Cse Be-Me.php" title="Computer Science and Engineering"><span>B.E  - Computer Science and Engineering and Cyber Security</span></a></li>
+                                            <li><a href="Cse Be-Me.php" title="Computer Science and Engineering"><span>B.E  - Computer Science and Engineering </span></a></li>
+                                            <li><a href="Cse Be-Me.php" title="Computer Science and Engineering"><span>B.E  - Computer Science and Engineering and (Cyber Security)</span></a></li>
                                             <li> <a href="Eee.php" title="Electrical and Electronics Engineering"><span>B.E - Electrical and Electronics Engineering</span></a></li>
                                             <li> <a href="Mechanical.php" title="Mechanical Engineering"><span>B.E - Mechanical Engineering</span></a></li>
                                             <li><a href="CivilEngineering.php" title="Civil Engineering"><span>B.E - Civil Engineering</span></a></li>
@@ -173,7 +174,7 @@
                                         <li class="menu-item-has-children"> <a href="#">PG - Courses</a>
                                             <ul class="sub-menu">
                                             <li><a href="Me-CEM.php" title=">M.E - Construction Engineering and Management"><span>M.E - Construction Engineering and Management</span></a></li> 
-                                            <li><a href="Cse Be-Me.php" title="Computer Science and Engineering"><span>M.E  - Computer Science and Engineering and Cyber Security</span></a></li>
+                                            <li><a href="Cse Be-Me.php" title="Computer Science and Engineering"><span>M.E  - Computer Science and Engineering</span></a></li>
                                             <li><a href="Me-ME.php" title="M.E - Manufacturing Engineering"><span>M.E - Manufacturing Engineering</span></a></li>
                                             <li ><a href="Me-power.php" title="Me-power"><span>M.E - Power Electronics And Drives</span></a></li>
                                             <li><a href="Me-SE.php" title="M.E - Structural Engineering"><span>M.E - Structural Engineering</span></a></li>
@@ -242,49 +243,6 @@
     <!--Full width header End-->
 
    
-   <!-- Slider Area Start -->
-
-   <!-- <div id="rs-slider" class="slider-overlay-2">
-    <div id="home-slider">
-        
-        <div class="item">
-            <img src="images/slider/home1/image 2.png" alt="Slide2" />
-            <div class="slide-content">
-                <div class="display-table">
-                    <div class="display-table-cell">
-                        <div class="container text-center">
-                            <h1 class="slider-title" data-animation-in="fadeInUp" data-animation-out="animate-out">ARE YOU READY TO APPLY?</h1>
-                            <p data-animation-in="fadeInUp" data-animation-out="animate-out" class="slider-desc">In Our SRG Allied Health Sciences College, we prepare students for careers that make a difference in our communities and in the lives of others. We would be delighted if you would join us in that mission by applying
-                                to one of our outstanding academic courses.</p>
-                            <a href="course_offer.php" class="sl-readmore-btn mr-30" data-animation-in="fadeInUp" data-animation-out="animate-out">READ MORE</a>
-                            <a href="application_form.php" class="sl-get-started-btn" data-animation-in="fadeInUp" data-animation-out="animate-out">GET STARTED NOW</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-        <div class="item">
-            <img src="images/slider/home1/image 3.jpg" alt="Slide3" />
-            <div class="slide-content">
-                <div class="display-table">
-                    <div class="display-table-cell">
-                        <div class="container text-center">
-                            <h1 class="slider-title" data-animation-in="fadeInUp" data-animation-out="animate-out">ARE YOU READY TO APPLY?</h1>
-                            <p data-animation-in="fadeInUp" data-animation-out="animate-out" class="slider-desc">In Our SRG Allied Health Sciences College, we prepare students for careers that make a difference in our communities and in the lives of others. We would be delighted if you would join us in that mission by applying
-                                to one of our outstanding academic courses.</p>
-                            <a href="course_offer.php" class="sl-readmore-btn mr-30" data-animation-in="fadeInUp" data-animation-out="animate-out">READ MORE</a>
-                            <a href="application_form.php" class="sl-get-started-btn" data-animation-in="fadeInUp" data-animation-out="animate-out">GET STARTED NOW</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        
-    </div>
-</div> -->
-
-<!-- Slider Area End -->
    <!-- Breadcrumbs Start -->
    <div class="rs-breadcrumbs bg-btech1 ">
         <div class="breadcrumbs-inner">
@@ -340,44 +298,7 @@
                         <li>30% of courses delivered by Adjunct Faculty and industry resource persons from leading industry IBM, CTS, InfoSys, and Vee Tech.</li>
                      
                     </div>
-                    <!-- <div id="accordion" class="rs-accordion-style1">
-                        <div class="card">
-                            <div class="card-header" id="headingOne">
-                                <h3 class="acdn-title" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                    Our History
-                                </h3>
-                            </div>
-                            <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion">
-                                <div class="card-body">
-                                    There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.
-                                </div>
-                            </div>
-                        </div>
-                        <div class="card">
-                            <div class="card-header" id="headingTwo">
-                                <h3 class="acdn-title" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                    Our Mission
-                                </h3>
-                            </div>
-                            <div id="collapseTwo" class="collapse show" aria-labelledby="headingTwo" data-parent="#accordion">
-                                <div class="card-body">
-                                    The mission of SRG Engineering College is to fulfill the educational needs of a culturally diverse student body by achieving excellence in teaching and learning, ultimately resulting in the intellectual, personal, and professional success of its graduates and the advancement of society.
-                                </div>
-                            </div>
-                        </div>
-                        <div class="card">
-                            <div class="card-header mb-0" id="headingThree">
-                                <h3 class="acdn-title collapsed" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                    Our Vision
-                                </h3>
-                            </div>
-                            <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
-                                <div class="card-body">
-                                    To provide academic programs, services, facilities, and technologies within the realm of the curricula of the affiliating university, that offers diverse opportunities for learning.
-                                </div>
-                            </div>
-                        </div>
-                    </div> -->
+                    
                 </div>
             </div>
         </div>
@@ -403,23 +324,6 @@
     <!-- Calltoaction End -->
 
 
-    <!-- Newslatter Start -->
-    
-        <!-- <div id="rs-newslatter" class="rs-newslatter sec-black sec-spacer">
-            <div class="container">
-                <div class="row rs-vertical-middle">
-                    <div class="col-md-6">
-                        <h3 class="newslatter-title">STAY CONNECTED WITH US</h3>
-                    </div>
-                    <div class="col-md-6 text-right">
-                        <form class="newslatter-form">
-                            <input type="text" class="form-input" placeholder="Enter Your Email Address">
-                            <button type="submit" class="form-button">SUBSCRIBE</button>
-                        </form>						
-                    </div>
-                </div>
-            </div>
-        </div> -->
 
 
     <!-- Courses Start -->

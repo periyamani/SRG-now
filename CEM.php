@@ -113,7 +113,7 @@
                                     <div class="info-text">
                                        
                                         <button class="button-top" data-toggle="modal" data-target="#form">Admission Enquiry</button>
-                                        <p class="u-code">University code 851</p>
+                                        <p class="u-code">Counsiling Code 2767</p>
                                     </div>
                                 </div>
                             </div>

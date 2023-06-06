@@ -673,6 +673,12 @@ ul {
     /* background-attachment: fixed; */
     background-position: center ;
 }
+.bg-InfoTech {
+    background-image: url(srg_images/images/bg/B-7.webp);
+    background-size: cover;
+    /* background-attachment: fixed; */
+    background-position: center ;
+}
 .bg1 {
     background-image: url(images/bg/bg1.jpg);
     background-size: cover;
@@ -1311,7 +1317,8 @@ ul {
 
 .rs-toolbar {
     padding: 4px 0 5px;
-    background-color: #111111;
+    /* background-color: #111111; */
+    background-color: #0400ff;
 }
 
 .rs-toolbar .rs-toolbar-left .welcome-message {
@@ -1508,7 +1515,8 @@ ul {
 }
 
 .home1 .menu-area .rs-menu>ul>li>a {
-    color: #bbbbbb;
+    /* color: #bbbbbb; */
+    color: #ffffff;
 }
 
 .home1 .menu-area .rs-menu>ul>li>a:hover,
@@ -1517,7 +1525,8 @@ ul {
 }
 
 .home1 .menu-area {
-    background: #212121;
+    /* background: #212121; */
+    background: #0400ff;
 }
 
 .home1 .searce-box {
@@ -2271,7 +2280,8 @@ ul {
 ---------------------------------------*/
 
 .menu-sticky.sticky {
-    background: #111111;
+    /* background: #111111; */
+    background: #0400ff;
     position: fixed !important;
     top: 0px;
     z-index: 999;
@@ -11118,7 +11128,7 @@ ul {
       text-shadow: 1px -1px #a81515;
   }
   .u-code {
-    margin: 8px 20px 1px;
+    margin: 8px 8px 1px;
     font-weight: 800;
     font-size: 15px;
    }
